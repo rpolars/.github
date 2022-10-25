@@ -1,4 +1,11 @@
-## Hi there 👋
+## This will be the new rpolars organization 👋🌈🍿
+
+currently hosted (here)[https://github.com/sorhawell/minipolars]
+
+The rpolars logo is a crude modification of the free artwork made by [titgatelu](https://www.vecteezy.com/members/tigatelu):
+
+
+
 
 <!--
 
